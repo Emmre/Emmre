@@ -1,16 +1,57 @@
-### Hi there 👋
+<!-- Hi there 👋 -->
 
 <!--
-**Emmre/Emmre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Emmre/Emmre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Hi 👋 I am Emre Saraç, a Frontend Developer
+<p>Emre Saraç (it's me!) is a Frontend developer. I code since 2019. Although I am a newbie, I have a big motivation to learn more, especially about React, Svelte, Vuejs and GraphQL.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+<p>⚡ Front-End Development with Reactjs & VanillaJS</p>
+
+<p>I develop with React since 2019 and worked as a Front End Developer. I used CSS(SCSS, Bootstrap) frameworks with React.</p>
+
+<hr />
+<p>⚡ On-page SEO with latest technologies (Nextjs)</p>
+<p>Nextjs (server side rendering package) is important tools for a developer nowadays. As you know React projects are rendered on client side and that can be a disadvantage when search engine bots see only js files instead of text content. Nextjs gives Google bots to see rendered html page instead of chunk.js & main.js files.</p>
+
+<hr />
+<p>⚡ Some of the technologies I have worked with</p>
+<p>
+<img src="https://camo.githubusercontent.com/035f44d943981d06cee1bee1b0cc45c29861ff3e154698bd887029d5aeaae142/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d363144414642" />
+<img src="https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074" />
+<img src="https://camo.githubusercontent.com/f6f083ae13da79198eb507cec156afc37b673c3127d809c4c62634d0b9654bf8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742532304e61746976652d3333333333333f7374796c653d666c6174266c6f676f3d7265616374" />
+<img src="https://camo.githubusercontent.com/92685c7e4a6bfe52e72182572eb196ea7b44a5ec8e50f1aa14f343f08316df55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d463035303332" />
+<img src="https://camo.githubusercontent.com/8fd25f1f1ec08b7cdab93cbe4c7a1fb842e49ea5bc4bf748555116c6972ba275/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d464646464646" />
+<img src="https://camo.githubusercontent.com/a68b8a243f31280de2915e9dd9e30285f89460bedd725855b3ef4aaee7d0a492/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d3333333333333f7374796c653d666c6174266c6f676f3d6769746c6162266c6f676f436f6c6f723d464646464646" />
+<img src="https://camo.githubusercontent.com/893145cea6693a066b883d1e5e8b29dbe03334b1bb44330c70c4a6c2922856d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6972612d3333333333333f7374796c653d666c6174266c6f676f3d6a6972612d736f667477617265266c6f676f436f6c6f723d7768697465266c6f676f436f6c6f723d303035324343" />
+<img src="https://camo.githubusercontent.com/349959f05ce13d4026ddff58f8c9732ce0d85a2c9cb04d9b3205d4d9470d41b2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61632532304f532d3333333333333f7374796c653d666c6174266c6f676f3d6170706c65" />
+</p>
+<hr />
+<p>⚡ Some of the technologies I have worked with</p>
+<p>
+<img src="https://camo.githubusercontent.com/23987e6ee37fd7a46e1cbb6d44e1f57a9fbbea91c396c6be6f2157b8b6fea3b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578746a732d2532333030373166332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" />
+<img src="https://camo.githubusercontent.com/035f44d943981d06cee1bee1b0cc45c29861ff3e154698bd887029d5aeaae142/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d363144414642" />
+<img src="https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074" />
+</p>
+<hr />
+<img src="https://github-readme-stats.vercel.app/api?username=Emmre&hide=contribs,prs&show_icons=true&theme=radical" />
+<hr />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmre&hide=html&layout=compact&show_icons=true&theme=radical" />
+
+<hr />
+<p>💬 How to reach me !</p>
+
+<a href="mailto:emreesrc@gmail.com">
+<img src="https://camo.githubusercontent.com/3b74b70793c9a65297a911b4160bfc192f376bf63f54e4806422a25feccf825f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d677261793f6c6f676f3d676d61696c267374796c653d666f722d7468652d6261646765" />
+</a>
+<a href="https://t.me/emreesrc">
+<img src="https://camo.githubusercontent.com/5179ac67be41dcce7c22779321eddfad008d398750ed086d490da6ed744f066b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74656c656772616d2d677261793f6c6f676f3d74656c656772616d267374796c653d666f722d7468652d6261646765" />
+</a>
+<a href="https://medium.com/@emreesrc">
+<img src="https://camo.githubusercontent.com/0033eb0d0cedb02d2c69d8dca8f4da1f071f993e25658362f95cb4b714b23670/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d677261793f6c6f676f3d6d656469756d267374796c653d666f722d7468652d6261646765" />
+</a>
+<a href="https://www.linkedin.com/in/emreesrc/">
+<img src="https://camo.githubusercontent.com/335c1636a1c41458321ef0a307a3d202fc613b29b4df358449b2be04ec51eeb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d677261793f6c6f676f3d6c696e6b6564696e267374796c653d666f722d7468652d6261646765" />
+</a>
+
