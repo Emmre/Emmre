@@ -4,7 +4,7 @@
 **Emmre/Emmre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Hi 👋 I am Emre Saraç, a Frontend Developer
-<p>Emre Saraç (it's me!) is a Frontend developer. I code since 2019. I have a big motivation to learn more, especially about React, Svelte, Vuejs and GraphQL.</p>
+<p>Emre Saraç (it's me!) is a Frontend developer. I code since 2019. I have a big motivation to learn more, especially about React, NextJS, NodeJS and Golang.</p>
 
 <hr />
 <p>⚡ Front-End Development with Reactjs & VanillaJS</p>
