@@ -9,7 +9,7 @@ Hi 👋 I am Emre Saraç, a Frontend Developer
 <hr />
 <p>⚡ Front-End Development with Reactjs & VanillaJS</p>
 
-<p>I develop with React since 2019 and worked as a Front End Developer. I used CSS(SCSS, Bootstrap) frameworks with React.</p>
+<p>I develop with React since 2019 and worked as a Front End Developer. I used NextJS, Typescript and React.</p>
 
 <hr />
 <p>⚡ On-page SEO with latest technologies (Nextjs)</p>
