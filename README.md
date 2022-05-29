@@ -7,7 +7,7 @@ Hi 👋 I am Emre Saraç, a Frontend Developer
 <p>Emre Saraç (it's me!) is a Frontend developer. I code since 2019. I have a big motivation to learn more, especially about React, NextJS, NodeJS and Golang.</p>
 
 <hr />
-<p>⚡ Front-End Development with Reactjs & VanillaJS</p>
+<p>⚡ Front-End Development with Reactjs & NextJS</p>
 
 <p>I develop with React since 2019 and worked as a Front End Developer. I used NextJS, Typescript and React.</p>
 
