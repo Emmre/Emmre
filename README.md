@@ -41,7 +41,7 @@ Hi 👋 I am Emre Saraç, a Frontend Developer
 <a href="mailto:emreesrc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://t.me/emreesrc">
+<a href="https://t.me/heyImEmo">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
 </a>
 <a href="https://medium.com/@emreesrc">
