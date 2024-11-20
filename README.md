@@ -1,15 +1,33 @@
-<!-- Hi there 👋 -->
-<!--
-   **Emmre/Emmre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-Hi 👋 I am Emre Saraç, a Frontend Developer
-<p>Emre Saraç (it's me!) is a Frontend developer. I code since 2019. I have a big motivation to learn more, especially about React, NextJS, NodeJS and Golang.</p>
+Hi 👋
+
+<p>Emre Saraç (it's me!) a passionate Frontend Developer. I’ve been coding since 2019, and I’m driven by the desire to create smooth, efficient, and user-friendly interfaces. I’m always eager to learn more, especially about modern web technologies like <strong>React.js</strong>, <strong>Next.JS</strong>, and <strong>Node.JS</strong>.</p>
+
 <hr />
-<p>⚡ Front-End Development with Reactjs & NextJS</p>
-<p>I develop with React since 2019 and worked as a Front End Developer. I used NextJS, Typescript and React.</p>
+
+<p>⚡ Front-End Development with React & Modern JavaScript Frameworks</p>
+
+<p>I have been working with <strong>React.js</strong> since 2019 and have developed a strong understanding of building dynamic, high-performance user interfaces. I also have experience with other frameworks and libraries such as <strong>Next.js</strong>, and <strong>TypeScript</strong>, helping me deliver scalable and maintainable applications.</p>
+
 <hr />
-<p>⚡ On-page SEO with latest technologies (Nextjs)</p>
-<p>Nextjs (server side rendering package) is important tools for a developer nowadays. As you know React projects are rendered on client side and that can be a disadvantage when search engine bots see only js files instead of text content. Nextjs gives Google bots to see rendered html page instead of chunk.js & main.js files.</p>
+
+<p>⚡ Backend Development with <strong>Node.js</strong></p>
+
+<p>In addition to frontend development, I have hands-on experience with <strong>Node.js</strong>, enabling me to create robust backend systems and APIs. From developing RESTful APIs to handling server-side logic, I focus on delivering fast and reliable solutions that complement frontend applications.</p>
+
 <hr />
+
+<p>⚡ Performance Optimization & Web Standards</p>
+
+<p>I prioritize performance in all my projects, from optimizing load times with lazy loading and code splitting to ensuring cross-browser compatibility. I follow the latest web standards to ensure a smooth and fast user experience across all platforms.</p>
+
+<hr />
+
+<p>⚡ Continuous Learning & Open Source</p>
+
+<p>As a developer, I’m always learning and staying up-to-date with the latest trends in frontend technologies. I enjoy contributing to open-source projects and collaborating with the community to improve the tools and practices we use every day.</p>
+
+<hr />
+
 <p>⚡ Some of the technologies I have worked with</p>
 <p>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
