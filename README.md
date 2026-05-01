@@ -7,22 +7,25 @@ Senior Software Developer with 6+ years of experience. I build scalable, high-pe
 ## Tech I Work With
 
 **Frontend**
-React · Next.js · TypeScript · JavaScript (ES6+)
+`React` `Next.js` `TypeScript` `JavaScript (ES6+)`
 
 **Styling**
-Tailwind CSS · Styled Components · SCSS
+`Tailwind CSS` `Styled Components` `SCSS`
 
 **State & Data**
-Redux · React Query · Context API
+`Redux` `React Query` `Context API`
 
 **Testing**
-Jest · Vitest · React Testing Library
+`Jest` `Vitest` `React Testing Library`
 
 **Tools**
-Vite · Webpack · Docker · Git
+`Vite` `Webpack` `Docker` `Git`
 
 **AI-Assisted Dev**
-Cursor · GitHub Copilot · Claude
+`Cursor` `GitHub Copilot` `Claude`
+
+**Beyond Frontend**
+`Node.js` `NestJS` `Python` `Angular` `PostgreSQL` `MongoDB`
 
 ---
 
