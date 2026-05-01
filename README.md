@@ -50,11 +50,6 @@ Hi 👋
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  alt="react-router" />
 </p>
-<hr />
-<img src="https://github-readme-stats.vercel.app/api?username=Emmre&hide=contribs,prs&show_icons=true&theme=radical" />
-<hr />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmre&hide=html&layout=compact&show_icons=true&theme=radical" />
-<hr />
 <p>💬 How to reach me !</p>
 <a href="mailto:emreesrc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
